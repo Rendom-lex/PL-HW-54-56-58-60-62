@@ -1,0 +1,15 @@
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\bin\Debug\net6.0\HW 62.exe
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\bin\Debug\net6.0\HW 62.deps.json
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\bin\Debug\net6.0\HW 62.runtimeconfig.json
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\bin\Debug\net6.0\HW 62.dll
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\bin\Debug\net6.0\HW 62.pdb
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.csproj.AssemblyReference.cache
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.AssemblyInfoInputs.cache
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.AssemblyInfo.cs
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.csproj.CoreCompileInputs.cache
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.dll
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\refint\HW 62.dll
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.pdb
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\HW 62.genruntimeconfig.cache
+C:\Users\al-tr\Desktop\PL Seminar 8\HW 62\obj\Debug\net6.0\ref\HW 62.dll
